@@ -1,5 +1,5 @@
 <p href="NXYY" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/215343088321822721/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/1133233377068199976/>
 </p>
 
 # 💫 About Me:
