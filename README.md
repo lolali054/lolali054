@@ -1,4 +1,4 @@
-<p href="NXYY" align="center">
+[<p href="NXYY" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/1133233377068199976/>
 </p>
 
@@ -34,3 +34,4 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://lanyard.cnrad.dev/api/1133233377068199976)https://lanyard.cnrad.dev/api/1133233377068199976
